@@ -1,6 +1,6 @@
 ## Olá, seja bem vindo ao meu github!
 
-Meu nome é Edilton Damasceno, estou no Sétimo semestre do curso de Engenharia de Computação da UFBA. Aqui tem alguns projetos que desenvolvi / participei do desenvolvimento. 😊
+Meu nome é Edilton Damasceno, estou no sétimo semestre do curso de Engenharia de Computação da UFBA. Aqui tem alguns projetos que desenvolvi / participei do desenvolvimento. 😊
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/edilton-damasceno-1958b01a0)
 
